@@ -1,0 +1,14 @@
+{
+  "name": "ぽよんと スイカゲーム",
+  "short_name": "スイカゲーム",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#ffe3ec",
+  "theme_color": "#ffe3ec",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
